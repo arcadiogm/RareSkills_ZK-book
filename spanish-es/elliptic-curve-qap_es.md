@@ -30,9 +30,8 @@ Sea $\mathbf{L}_{(*,j)}$ la $j$-ésima columna de $\mathbf{L}$. En nuestro ejemp
 
 Como tenemos 4 columnas, obtenemos cuatro polinomios de $\mathbf{L}$ 
 
-$$ \begin{align*} u_1(x) = \mathcal{L}(\mathbf{L}_{(*,1)}) =u_{12}x^2 + u_{11}x+u_{10}\\ u_2(x) = \mathcal{L}(\mathbf{L}_{(*,2)}) _{22}x^2 + u_{21}x+u_{20}\\ u_3(x) = \mathcal{L}(\mathbf{L}_{(*,3)}) =u_{32}x^2 + u_{31}x+u_{30}\\ u_4(x) = \mathcal{L}(\mathbf{L}_{(*,4)}) =u_{42}x^2 + u_{41}x+u_{40}\\
-\end{align*}
-$$
+$$\begin{align*} u_1(x) = \mathcal{L}(\mathbf{L}_{(*,1)}) =u_{12}x^2 + u_{11}x+u_{10}\\ u_2(x) = \mathcal{L}(\mathbf{L}_{(*,2)}) _{22}x^2 + u_{21}x+u_{20}\\ u_3(x) = \mathcal{L}(\mathbf{L}_{(*,3)}) =u_{32}x^2 + u_{31}x+u_{30}\\ u_4(x) = \mathcal{L}(\mathbf{L}_{(*,4)}) =u_{42}x^2 + u_{41}x+u_{40}\\
+\end{align*}$$
 
 cuatro polinomios de $\mathbf{R}$
 
